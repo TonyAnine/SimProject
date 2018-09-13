@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    tools:context="com.everzones.permissiontest.MainActivity"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/bt_getContact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="申请通讯录"/>
+
+    <Button
+        android:id="@+id/bt_call"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="申请拨打电话权限"/>
+
+    <Button
+        android:id="@+id/bt_callLog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="单个请求"/>
+
+    <Button
+        android:id="@+id/bt_addContact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="添加联系人"/>
+
+    <Button
+        android:id="@+id/bt_all"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="申请所有权限"/>
+</LinearLayout>

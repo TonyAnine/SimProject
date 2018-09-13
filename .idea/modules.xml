@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SimProject.iml" filepath="$PROJECT_DIR$/SimProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appBar/appBar.iml" filepath="$PROJECT_DIR$/appBar/appBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arabic/arabic.iml" filepath="$PROJECT_DIR$/arabic/arabic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiplepermission/multiplepermission.iml" filepath="$PROJECT_DIR$/multiplepermission/multiplepermission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permissiontest/permissiontest.iml" filepath="$PROJECT_DIR$/permissiontest/permissiontest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shortcut/shortcut.iml" filepath="$PROJECT_DIR$/shortcut/shortcut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shortcutsdynamic/shortcutsdynamic.iml" filepath="$PROJECT_DIR$/shortcutsdynamic/shortcutsdynamic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shotcutsstatic/shotcutsstatic.iml" filepath="$PROJECT_DIR$/shotcutsstatic/shotcutsstatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yelp-android-master/yelp-android-master.iml" filepath="$PROJECT_DIR$/yelp-android-master/yelp-android-master.iml" />
+    </modules>
+  </component>
+</project>
